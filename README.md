@@ -2,7 +2,7 @@
 Projetos da DIO
 
 # NotebookLM para Elétrica
-https://notebooklm.google.com/notebook/60bf9059-5aa4-40b3-9e2a-aff7517a8e57
+[https://notebooklm.google.com/notebook/60bf9059-5aa4-40b3-9e2a-aff7517a8e57](https://notebooklm.google.com/notebook/60bf9059-5aa4-40b3-9e2a-aff7517a8e57)
 
 ## 📖 Sobre o projeto
 
